@@ -59,7 +59,6 @@ Email → Blob Storage → Azure Function (Processing)
 * AI extracts:
 
   * BG Number
-  * Invoice Number
   * Credit Limit
   * Sale Amount
 
